@@ -36,6 +36,8 @@ print(l.gender("sudha"))
 #Output will be 0 which means female
 ```
 
+5. Screenshots will be updated below.
+
 
 
 ## 📧Contact:-
