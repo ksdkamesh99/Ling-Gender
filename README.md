@@ -26,7 +26,15 @@ https://github.com/ksdkamesh99/Ling.git
 pip install -r requirements.txt
 ```
 
-
+4. At  last, Go to 3.7.7 Python interpreter(Make Sure to create virtual env).
+```sh
+#Import Ling as l in any python file/Interpreter(note it is present in the same directory)
+import Ling as l
+print(l.gender("kamesh"))
+# Output will be 1 which means male
+print(l.gender("sudha"))
+#Output will be 0 which means female
+```
 
 
 
