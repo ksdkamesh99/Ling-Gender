@@ -13,3 +13,7 @@ A Natural Lnguage Processing model trained with over 1,00,000 (1 Lakh) names is 
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in package regarding improving accuracy of model. Please mail me at ksdkamesh99@gmail.com.
+
+
+## 📜 LICENSE
+[MIT](https://github.com/ksdkamesh99/Ling/blob/master/LICENSE)
