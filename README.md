@@ -12,7 +12,9 @@ A Natural Language Processing model trained with over 1,00,000 (1 Lakh) names is
 </p>
 
 ## 🏃‍♂️ Local Installation
-1. Drop a ⭐ on the Github Repository. 
+1. Drop a ⭐ on the Github Repository.  
+
+
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
