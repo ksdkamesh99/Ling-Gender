@@ -21,6 +21,11 @@ A Natural Language Processing model trained with over 1,00,000 (1 Lakh) names is
 https://github.com/ksdkamesh99/Ling.git
 ```
 
+3. Install the Packages: 
+```sh
+pip install -r requirements.txt
+```
+
 
 
 
