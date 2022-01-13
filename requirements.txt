@@ -47,7 +47,7 @@ opencv-python==4.2.0.34
 opt-einsum==3.2.0
 packaging==20.4
 pandas==1.0.3
-Pillow==7.1.1
+Pillow==9.0.0
 pkginfo==1.5.0.1
 protobuf==3.11.3
 pyasn1==0.4.8
